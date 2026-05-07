@@ -27,7 +27,7 @@
 # start.sh, then drop back to coder for the actual code-server
 # process via su.
 
-FROM codercom/code-server:latest
+FROM docker.io/codercom/code-server:latest
 
 USER root
 
