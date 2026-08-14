@@ -1,7 +1,7 @@
 [app]
 name = "vscode"
 version = "0.1.0"
-description = "code-server (VS Code in the browser) packaged for OpenHost with one-click SSO. The zone owner is auto-logged-in to a full VS Code workspace without ever seeing code-server's native password prompt; persistent state lives under OPENHOST_APP_DATA_DIR so notebooks and extensions survive redeploys."
+description = "code-server (VS Code in the browser) packaged for Cloud in a Bottle with one-click SSO. The zone owner is auto-logged-in to a full VS Code workspace without ever seeing code-server's native password prompt; persistent state lives under OPENHOST_APP_DATA_DIR so notebooks and extensions survive redeploys."
 authors = ["Andrew Laack <andrew@laack.co>"]
 
 [runtime.container]
